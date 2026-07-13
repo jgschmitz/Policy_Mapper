@@ -77,7 +77,7 @@ Policy Mapper retrieves the most relevant governance controls using **Atlas Vect
 
 ---
 
-# Example Question
+# Example Questions
 
 ```text
 How often should privileged access be reviewed?
