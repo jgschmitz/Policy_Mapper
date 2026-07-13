@@ -81,6 +81,10 @@ Policy Mapper retrieves the most relevant governance controls using **Atlas Vect
 
 ```text
 How often should privileged access be reviewed?
+Who approves new application access?
+What happens when an employee leaves the company?
+How do we enforce least privilege?
+Can service accounts be shared across applications?
 ```
 
 Output
